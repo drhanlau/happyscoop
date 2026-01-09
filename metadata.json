@@ -1,0 +1,7 @@
+{
+  "name": "Scoop AI - Artisanal Ice Cream & Flavor Lab",
+  "description": "A vibrant, modern landing page for an artisanal ice cream shop featuring an AI-powered flavor recommendation engine driven by Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
